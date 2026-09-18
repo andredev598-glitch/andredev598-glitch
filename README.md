@@ -55,6 +55,9 @@
 
 <br>
 <div data-importer="image" align="center">
-  <img data-importer="image" height="299" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVlOG1wcWtiamJqd2t0YmxrZjlsNmZuZHNmeGltMml1OTR4MWJlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ycMxgRbgWyCtKPGFF4/giphy.gif](https://media.tenor.com/3-GpXBEJTmUAAAAi/mario-dancing.gif](https://tenor.com/pt-BR/view/pixel-art-gaming-pc-chill-guy-gif-201994295938337468)"  />
+<img width="498" height="300" alt="pixels-neon" src="https://github.com/user-attachments/assets/1475a490-4364-4a6e-a4d3-c9ec91ec5f3b" />
+
+
 </div>
+
 
