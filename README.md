@@ -1,63 +1,112 @@
-<h1 align="center">hey there 👋</h1>
+<div align="center">
 
-<br>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · andredev598-glitch</sub></p>
+<h1>André Moisés</h1>
+<h2>Product-minded developer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<p><a href="https://github.com/andredev598-glitch">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="André Moisés animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-<p align="left">
-  Meu nome é André Moises, tenho 23 anos, concluí o ensino médio e atualmente curso Sistemas de Informação. Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos por meio do desenvolvimento de projetos e da exploração de novas ferramentas e tecnologias.<br><br>
-  Tenho grande interesse em Inteligência Artificial e procuro integrar soluções de IA aos meus projetos, buscando sempre aprender, inovar e acompanhar as tendências do mercado. Sou uma pessoa dedicada, curiosa e comprometida com meu desenvolvimento profissional, sempre me esforçando para evoluir e me tornar cada vez melhor na área de tecnologia.
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>11 contributions · 4 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="André Moisés GitHub proof metrics" />
+</picture>
 </p>
 
-<br>
+<h2>Selected work</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-mois%C3%A9s-tavares-de-souza-810733313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/andremoises_oficial?stkn=MW5pcHJocWprd3hlcQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="mailto:andre.dev598@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&repos=andredev598-glitch%2Fandredev598-glitch&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&repos=andredev598-glitch%2Fandredev598-glitch&v=recruiter-projects-1&mode=dark" width="100%" alt="André Moisés selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/andredev598-glitch/andredev598-glitch">andredev598-glitch</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/andredev598-glitch/andredev598-glitch">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<br>
+<table width="100%">
+<tr>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andredev598-glitch.andredev598-glitch" alt="visitor badge" />
-</div>
+</tr>
+</table>
 
-<br>
+<h2>Technical toolkit</h2>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="André Moisés technology stack" />
+</picture>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-</div>
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
-<br>
+<h2>Consistency signal</h2>
 
-<h3 align="left">🔥 My Stats</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=andredev598-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235197285%3Fu%3D5821d5a22bbd70d488a388589ffa8b8e61dc74aa%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="André Moisés contribution activity" />
+</picture>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andredev598-glitch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<hr />
 
-<br>
-<div data-importer="image" align="center">
-<img width="498" height="300" alt="pixels-neon" src="https://github.com/user-attachments/assets/1475a490-4364-4a6e-a4d3-c9ec91ec5f3b" />
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/andredev598-glitch">GitHub</a></td>
+</tr>
+</table>
 
-
-</div>
-
-
+<p align="center"><sub>André Moisés · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
